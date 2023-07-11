@@ -1,1 +1,1 @@
-Creating a third file
+Updating newfile with additional text
